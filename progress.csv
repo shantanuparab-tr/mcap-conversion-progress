@@ -1,33 +1,29 @@
-Dataset,Episodes,Raw GB,Compressed on NAS,Complete,Done %,Status,Running on
-ALL,3478,10678,211,24,1%,🟦 running,totl-01 totl-02
-assemble_box,170,568,159,24,14%,🟨 partial,
-battery_into_clock,100,332,76,0,0%,🟦 running,totl-01 totl-02
-bin_picking,100,70,0,0,0%,⬜ pending,
-dishes_into_tray,40,335,0,0,0%,⬜ pending,
-draw_smiley,51,77,0,0,0%,⬜ pending,
-erase_whiteboard,150,452,0,0,0%,⬜ pending,
-find_object,120,146,0,0,0%,⬜ pending,
-open_drawer,150,151,0,0,0%,⬜ pending,
-pick_and_hold,70,48,0,0,0%,⬜ pending,
-pour_red_cup,100,200,0,0,0%,⬜ pending,
-prep_tape,160,218,0,0,0%,⬜ pending,
-pull_handle_door,100,97,0,0,0%,⬜ pending,
-push_cup_black_tape,200,325,0,0,0%,⬜ pending,
-push_red_button,120,130,0,0,0%,⬜ pending,
-puzzle_piece,79,348,0,0,0%,⬜ pending,
-redcube,10,3,0,0,0%,⬜ pending,
-separate_drivers,100,141,0,0,0%,⬜ pending,
-shape_sorting,11,66,0,0,0%,⬜ pending,
-shirt_on_hanger,30,393,0,0,0%,⬜ pending,
-sort_blocks,3,5,0,0,0%,⬜ pending,
-stack_blocks,150,353,0,0,0%,⬜ pending,
-trash_into_can,40,228,0,0,0%,⬜ pending,
-tshirt_folding,1174,5257,0,0,0%,⬜ pending,
-twist_off_cap,50,181,0,0,0%,⬜ pending,
-usb_into_hub,100,199,0,0,0%,⬜ pending,
-ziploc,100,355,0,0,0%,⬜ pending,
-,,,,,,,
-Updated,2026-09-23 14:49,,,,,,
-NAS free TB,4.23,,,,,,
-Encoders,totl-01=9 totl-02=9,,,,,,
-Warnings,none,,,,,,
+Dataset,Episodes,Raw GB,Compressed GB,Converted,Complete,Done %,Status,Activity,,Metric,Value
+ALL,3478,10659,131,227,27,1%,🟦 running,totl-01 totl-02,,
+assemble_box,170,549,84,159,27,16%,🟨 partial,uploading raw from totl-01; uploading raw from totl-02,Storage,
+battery_into_clock,100,332,46,95,0,0%,🟦 running,converting on totl-01 + totl-02,NAS free,4.22 TB
+bin_picking,100,70,0,0,0,0%,⬜ pending,,NAS raw left,10.66 TB
+dishes_into_tray,40,335,0,0,0,0%,⬜ pending,,NAS compressed,0.13 TB
+draw_smiley,51,77,0,0,0,0%,⬜ pending,,totl-01 disk free,1.04 TB
+erase_whiteboard,150,452,0,0,0,0%,⬜ pending,,totl-02 disk free,1.51 TB
+find_object,120,146,0,0,0,0%,⬜ pending,,,
+open_drawer,150,151,0,0,0,0%,⬜ pending,,AWS,
+pick_and_hold,70,48,0,0,0,0%,⬜ pending,,raw/ objects,28
+pour_red_cup,100,200,0,0,0,0%,⬜ pending,,raw/ size,0.07 TB
+prep_tape,160,218,0,0,0,0%,⬜ pending,,video/ objects,28
+pull_handle_door,100,97,0,0,0,0%,⬜ pending,,video/ size,0.01 TB
+push_cup_black_tape,200,325,0,0,0,0%,⬜ pending,,,
+push_red_button,120,130,0,0,0,0%,⬜ pending,,Updated,2026-09-23 14:57
+puzzle_piece,79,348,0,0,0,0%,⬜ pending,,Warnings,none
+redcube,10,3,0,0,0,0%,⬜ pending,,,
+separate_drivers,100,141,0,0,0,0%,⬜ pending,,,
+shape_sorting,11,66,0,0,0,0%,⬜ pending,,,
+shirt_on_hanger,30,393,0,0,0,0%,⬜ pending,,,
+sort_blocks,3,5,0,0,0,0%,⬜ pending,,,
+stack_blocks,150,353,0,0,0,0%,⬜ pending,,,
+trash_into_can,40,228,0,0,0,0%,⬜ pending,,,
+tshirt_folding,1174,5257,0,0,0,0%,⬜ pending,,,
+twist_off_cap,50,181,0,0,0,0%,⬜ pending,,,
+usb_into_hub,100,199,0,0,0,0%,⬜ pending,,,
+ziploc,100,355,0,0,0,0%,⬜ pending,,,
+Encoders,totl-01=9 totl-02=8,,,,,,,
