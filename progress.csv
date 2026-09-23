@@ -1,0 +1,33 @@
+Dataset,Episodes,Raw GB,Converted,In S3,Done %
+ALL,3478,10680,208,23,1%
+assemble_box,170,570,159,23,14%
+battery_into_clock,100,332,72,0,0%
+bin_picking,100,70,0,0,0%
+dishes_into_tray,40,335,0,0,0%
+draw_smiley,51,77,0,0,0%
+erase_whiteboard,150,452,0,0,0%
+find_object,120,146,0,0,0%
+open_drawer,150,151,0,0,0%
+pick_and_hold,70,48,0,0,0%
+pour_red_cup,100,200,0,0,0%
+prep_tape,160,218,0,0,0%
+pull_handle_door,100,97,0,0,0%
+push_cup_black_tape,200,325,0,0,0%
+push_red_button,120,130,0,0,0%
+puzzle_piece,79,348,0,0,0%
+redcube,10,3,0,0,0%
+separate_drivers,100,141,0,0,0%
+shape_sorting,11,66,0,0,0%
+shirt_on_hanger,30,393,0,0,0%
+sort_blocks,3,5,0,0,0%
+stack_blocks,150,353,0,0,0%
+trash_into_can,40,228,0,0,0%
+tshirt_folding,1174,5257,0,0,0%
+twist_off_cap,50,181,0,0,0%
+usb_into_hub,100,199,0,0,0%
+ziploc,100,355,0,0,0%
+,,,,,
+Updated,2026-09-23 14:46,,,,
+NAS free TB,4.23,,,,
+Encoders,totl-01=9 totl-02=8,,,,
+Warnings,none,,,,
