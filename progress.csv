@@ -1,19 +1,19 @@
 Dataset,Episodes,Raw GB,Compressed GB,Converted,Complete,Done %,Status,Activity,,Metric,Value
-ALL,3477,10462,221,448,80,2%,🟦 running,totl-01 totl-02,,,
-assemble_box,169,352,84,159,80,47%,🟨 partial,uploading raw from totl-01; uploading raw from totl-02,,Storage,
-battery_into_clock,100,332,48,100,0,0%,🟨 partial,,,NAS free,4.13 TB
-bin_picking,100,70,4,100,0,0%,🟨 partial,,,NAS raw left,10.46 TB
-dishes_into_tray,40,335,50,40,0,0%,🟨 partial,,,NAS compressed,0.22 TB
+ALL,3477,10434,231,464,85,2%,🟦 running,totl-01 totl-02,,,
+assemble_box,169,324,84,159,85,50%,🟨 partial,uploading raw from totl-01; uploading raw from totl-02,,Storage,
+battery_into_clock,100,332,48,100,0,0%,🟨 partial,,,NAS free,4.12 TB
+bin_picking,100,70,4,100,0,0%,🟨 partial,,,NAS raw left,10.43 TB
+dishes_into_tray,40,335,50,40,0,0%,🟨 partial,,,NAS compressed,0.23 TB
 draw_smiley,51,77,2,51,0,0%,🟨 partial,,,totl-01 disk free,1.04 TB
-erase_whiteboard,150,452,33,78,0,0%,🟦 running,converting on totl-01 + totl-02,,totl-02 disk free,1.51 TB
+erase_whiteboard,150,452,42,99,0,0%,🟦 running,converting on totl-01 + totl-02,,totl-02 disk free,1.51 TB
 find_object,120,146,0,0,0,0%,⬜ pending,,,,
 open_drawer,150,151,0,0,0,0%,⬜ pending,,,AWS,
-pick_and_hold,70,48,0,0,0,0%,⬜ pending,,,raw/ objects,81
-pour_red_cup,100,200,0,0,0,0%,⬜ pending,,,raw/ size,0.26 TB
-prep_tape,160,218,0,0,0,0%,⬜ pending,,,video/ objects,81
+pick_and_hold,70,48,0,0,0,0%,⬜ pending,,,raw/ objects,86
+pour_red_cup,100,200,0,0,0,0%,⬜ pending,,,raw/ size,0.29 TB
+prep_tape,160,218,0,0,0,0%,⬜ pending,,,video/ objects,86
 pull_handle_door,100,97,0,0,0,0%,⬜ pending,,,video/ size,0.04 TB
 push_cup_black_tape,200,325,0,0,0,0%,⬜ pending,,,,
-push_red_button,120,130,0,0,0,0%,⬜ pending,,,Updated,2026-09-23 17:15
+push_red_button,120,130,0,0,0,0%,⬜ pending,,,Updated,2026-09-23 17:30
 puzzle_piece,79,348,0,0,0,0%,⬜ pending,,,Warnings,none
 redcube,10,3,0,0,0,0%,⬜ pending,,,,
 separate_drivers,100,141,0,0,0,0%,⬜ pending,,,,
@@ -26,4 +26,4 @@ tshirt_folding,1174,5257,0,0,0,0%,⬜ pending,,,,
 twist_off_cap,50,181,0,0,0,0%,⬜ pending,,,,
 usb_into_hub,100,199,0,0,0,0%,⬜ pending,,,,
 ziploc,100,355,0,0,0,0%,⬜ pending,,,,
-Encoders,totl-01=9 totl-02=9,,,,,,,
+Encoders,totl-01=8 totl-02=8,,,,,,,
