@@ -1,9 +1,9 @@
 Dataset,Episodes,Raw GB,Compressed GB,Converted,Complete,Done %,Status,Activity,,Metric,Value
-ALL,3477,10132,1272,2667,159,5%,🟦 running,totl-01 totl-02,,,
+ALL,3477,10132,1278,2701,159,5%,🟦 running,totl-01 totl-02,,,
 assemble_box,169,22,84,159,159,94%,🟨 partial,,,Storage,
 battery_into_clock,100,332,48,100,0,0%,🟨 partial,,,NAS free,3.08 TB
 bin_picking,100,70,4,100,0,0%,🟨 partial,,,NAS raw left,10.13 TB
-dishes_into_tray,40,335,50,40,0,0%,🟨 partial,,,NAS compressed,1.27 TB
+dishes_into_tray,40,335,50,40,0,0%,🟨 partial,,,NAS compressed,1.28 TB
 draw_smiley,51,77,2,51,0,0%,🟨 partial,,,totl-01 disk free,0.98 TB
 erase_whiteboard,150,452,64,150,0,0%,🟨 partial,,,totl-02 disk free,1.51 TB
 find_object,120,146,20,120,0,0%,🟨 partial,,,,
@@ -13,7 +13,7 @@ pour_red_cup,100,200,27,100,0,0%,🟨 partial,,,raw/ size,0.00 TB
 prep_tape,160,218,50,160,0,0%,🟨 partial,,,video/ objects,0
 pull_handle_door,100,97,14,100,0,0%,🟨 partial,,,video/ size,0.00 TB
 push_cup_black_tape,200,325,45,200,0,0%,🟨 partial,,,,
-push_red_button,120,130,19,120,0,0%,🟨 partial,,,Updated,2026-09-24 13:15
+push_red_button,120,130,19,120,0,0%,🟨 partial,,,Updated,2026-09-24 13:30
 puzzle_piece,79,348,137,79,0,0%,🟨 partial,,,Warnings,none
 redcube,10,3,0,10,0,0%,🟨 partial,,,,
 separate_drivers,100,141,9,100,0,0%,🟨 partial,,,,
@@ -22,8 +22,8 @@ shirt_on_hanger,30,393,57,30,0,0%,🟨 partial,,,,
 sort_blocks,3,5,0,3,0,0%,🟨 partial,,,,
 stack_blocks,150,353,43,150,0,0%,🟨 partial,,,,
 trash_into_can,40,228,34,40,0,0%,🟨 partial,,,,
-tshirt_folding,1174,5257,540,783,0,0%,🟦 running,converting on totl-02,,,
+tshirt_folding,1174,5257,546,817,0,0%,🟦 running,converting on totl-02,,,
 twist_off_cap,50,181,0,0,0,0%,⬜ pending,,,,
 usb_into_hub,100,199,0,0,0,0%,⬜ pending,,,,
 ziploc,100,355,0,0,0,0%,⬜ pending,,,,
-Encoders,totl-01=3 totl-02=7,,,,,,,
+Encoders,totl-01=3 totl-02=8,,,,,,,
