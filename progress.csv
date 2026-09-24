@@ -1,19 +1,19 @@
 Dataset,Episodes,Raw GB,Compressed GB,Converted,Complete,Done %,Status,Activity,,Metric,Value
-ALL,3476,10308,276,703,112,3%,🟦 running,totl-01 totl-02,,,
-assemble_box,168,197,84,159,112,67%,🟨 partial,,,Storage,
-battery_into_clock,100,332,48,100,0,0%,🟨 partial,,,NAS free,4.08 TB
-bin_picking,100,70,4,100,0,0%,🟨 partial,,,NAS raw left,10.31 TB
+ALL,3477,10282,283,785,119,3%,🟦 running,totl-01 totl-02,,,
+assemble_box,169,172,84,159,119,70%,🟨 partial,uploading raw from totl-01; uploading raw from totl-02,,Storage,
+battery_into_clock,100,332,48,100,0,0%,🟨 partial,,,NAS free,4.07 TB
+bin_picking,100,70,4,100,0,0%,🟨 partial,,,NAS raw left,10.28 TB
 dishes_into_tray,40,335,50,40,0,0%,🟨 partial,,,NAS compressed,0.28 TB
 draw_smiley,51,77,2,51,0,0%,🟨 partial,,,totl-01 disk free,1.04 TB
 erase_whiteboard,150,452,64,150,0,0%,🟨 partial,,,totl-02 disk free,1.51 TB
 find_object,120,146,20,120,0,0%,🟨 partial,,,,
-open_drawer,150,151,3,95,0,0%,🟦 running,converting on totl-01 + totl-02,,AWS,
-pick_and_hold,70,48,0,0,0,0%,⬜ pending,,,raw/ objects,115
-pour_red_cup,100,200,0,0,0,0%,⬜ pending,,,raw/ size,0.42 TB
-prep_tape,160,218,0,0,0,0%,⬜ pending,,,video/ objects,114
+open_drawer,150,151,4,150,0,0%,🟨 partial,,,AWS,
+pick_and_hold,70,48,6,34,0,0%,🟦 running,converting on totl-01 + totl-02,,raw/ objects,120
+pour_red_cup,100,200,0,0,0,0%,⬜ pending,,,raw/ size,0.44 TB
+prep_tape,160,218,0,0,0,0%,⬜ pending,,,video/ objects,120
 pull_handle_door,100,97,0,0,0,0%,⬜ pending,,,video/ size,0.06 TB
 push_cup_black_tape,200,325,0,0,0,0%,⬜ pending,,,,
-push_red_button,120,130,0,0,0,0%,⬜ pending,,,Updated,2026-09-23 18:45
+push_red_button,120,130,0,0,0,0%,⬜ pending,,,Updated,2026-09-23 19:00
 puzzle_piece,79,348,0,0,0,0%,⬜ pending,,,Warnings,none
 redcube,10,3,0,0,0,0%,⬜ pending,,,,
 separate_drivers,100,141,0,0,0,0%,⬜ pending,,,,
