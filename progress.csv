@@ -1,19 +1,19 @@
 Dataset,Episodes,Raw GB,Compressed GB,Converted,Complete,Done %,Status,Activity,,Metric,Value
-ALL,3477,9344,1437,3030,434,12%,⬜ idle,totl-01 totl-02,,,
+ALL,3477,9307,1437,3010,454,13%,⬜ idle,totl-01 totl-02,,,
 assemble_box,169,22,84,159,159,94%,🟨 partial,,,Storage,
 battery_into_clock,100,0,48,100,100,100%,🟩 done,,,NAS free,2.74 TB
-bin_picking,100,0,4,100,100,100%,🟩 done,,,NAS raw left,9.34 TB
+bin_picking,100,0,4,100,100,100%,🟩 done,,,NAS raw left,9.31 TB
 dishes_into_tray,40,0,50,40,40,100%,🟩 done,,,NAS compressed,1.44 TB
-draw_smiley,51,27,2,51,35,69%,🟨 partial,uploading raw from totl-01; uploading raw from totl-02,,totl-01 disk free,0.99 TB
-erase_whiteboard,150,452,64,150,0,0%,🟨 partial,,,totl-02 disk free,1.49 TB
+draw_smiley,51,0,2,51,51,100%,🟩 done,,,totl-01 disk free,0.99 TB
+erase_whiteboard,150,441,64,150,4,3%,🟨 partial,uploading raw from totl-01; uploading raw from totl-02,,totl-02 disk free,1.49 TB
 find_object,120,146,20,120,0,0%,🟨 partial,,,,
 open_drawer,150,151,4,150,0,0%,🟨 partial,,,AWS,
-pick_and_hold,70,48,15,70,0,0%,🟨 partial,,,raw/ objects,435
-pour_red_cup,100,200,27,100,0,0%,🟨 partial,,,raw/ size,1.38 TB
-prep_tape,160,218,50,160,0,0%,🟨 partial,,,video/ objects,435
+pick_and_hold,70,48,15,70,0,0%,🟨 partial,,,raw/ objects,455
+pour_red_cup,100,200,27,100,0,0%,🟨 partial,,,raw/ size,1.42 TB
+prep_tape,160,218,50,160,0,0%,🟨 partial,,,video/ objects,455
 pull_handle_door,100,97,14,100,0,0%,🟨 partial,,,video/ size,0.19 TB
 push_cup_black_tape,200,325,45,200,0,0%,🟨 partial,,,,
-push_red_button,120,130,19,120,0,0%,🟨 partial,,,Updated,2026-09-25 16:45
+push_red_button,120,130,19,120,0,0%,🟨 partial,,,Updated,2026-09-25 17:00
 puzzle_piece,79,348,137,79,0,0%,🟨 partial,,,Warnings,none
 redcube,10,3,0,10,0,0%,🟨 partial,,,,
 separate_drivers,100,141,9,100,0,0%,🟨 partial,,,,
