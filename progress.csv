@@ -7,16 +7,16 @@ dishes_into_tray,40,0,50,40,40,100%,🟩 done,,,NAS compressed,1.44 TB
 draw_smiley,51,0,2,51,51,100%,🟩 done,,,totl-01 disk free,0.99 TB
 erase_whiteboard,150,217,64,150,79,53%,🟨 partial,,,totl-02 disk free,1.49 TB
 find_object,120,146,20,120,0,0%,🟨 partial,,,,
-open_drawer,150,151,4,150,0,0%,🟨 partial,uploading raw from totl-01; uploading raw from totl-02,,AWS,
+open_drawer,150,151,4,150,0,0%,🟨 partial,,,AWS,
 pick_and_hold,70,48,15,70,0,0%,🟨 partial,,,raw/ objects,0
 pour_red_cup,100,200,27,100,0,0%,🟨 partial,,,raw/ size,0.00 TB
 prep_tape,160,218,50,160,0,0%,🟨 partial,,,video/ objects,0
 pull_handle_door,100,97,14,100,0,0%,🟨 partial,,,video/ size,0.00 TB
 push_cup_black_tape,200,325,45,200,0,0%,🟨 partial,,,,
-push_red_button,120,130,19,120,0,0%,🟨 partial,,,Updated,2026-09-25 18:45
+push_red_button,120,130,19,120,0,0%,🟨 partial,,,Updated,2026-09-25 19:00
 puzzle_piece,79,348,137,79,0,0%,🟨 partial,,,Warnings,none
 redcube,10,3,0,10,0,0%,🟨 partial,,,,
-separate_drivers,100,141,9,100,0,0%,🟨 partial,,,,
+separate_drivers,100,141,9,100,0,0%,🟨 partial,uploading raw from totl-02,,,
 shape_sorting,11,66,4,11,0,0%,🟨 partial,,,,
 shirt_on_hanger,30,393,57,30,0,0%,🟨 partial,,,,
 sort_blocks,3,5,0,3,0,0%,🟨 partial,,,,
