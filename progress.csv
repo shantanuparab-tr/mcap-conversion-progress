@@ -1,8 +1,8 @@
 Dataset,Episodes,Raw GB,Compressed GB,Converted,Complete,Done %,Status,Activity,,Metric,Value
-ALL,3477,8244,1437,2371,1093,31%,⬜ idle,totl-01 totl-02,,,
+ALL,3477,8213,1437,2349,1115,32%,⬜ idle,totl-01 totl-02,,,
 assemble_box,169,22,84,159,159,94%,🟨 partial,,,Storage,
 battery_into_clock,100,0,48,100,100,100%,🟩 done,,,NAS free,2.73 TB
-bin_picking,100,0,4,100,100,100%,🟩 done,,,NAS raw left,8.24 TB
+bin_picking,100,0,4,100,100,100%,🟩 done,,,NAS raw left,8.21 TB
 dishes_into_tray,40,0,50,40,40,100%,🟩 done,,,NAS compressed,1.44 TB
 draw_smiley,51,0,2,51,51,100%,🟩 done,,,totl-01 disk free,0.99 TB
 erase_whiteboard,150,0,64,150,150,100%,🟩 done,,,totl-02 disk free,1.49 TB
@@ -10,10 +10,10 @@ find_object,120,0,20,120,120,100%,🟩 done,,,,
 open_drawer,150,0,4,150,150,100%,🟩 done,,,AWS,
 pick_and_hold,70,0,15,70,70,100%,🟩 done,,,raw/ objects,0
 pour_red_cup,100,0,27,100,100,100%,🟩 done,,,raw/ size,0.00 TB
-prep_tape,160,142,50,160,53,33%,🟨 partial,uploading raw from totl-01; uploading raw from totl-02,,video/ objects,0
+prep_tape,160,111,50,160,75,47%,🟨 partial,uploading raw from totl-01; uploading raw from totl-02,,video/ objects,0
 pull_handle_door,100,97,14,100,0,0%,🟨 partial,,,video/ size,0.00 TB
 push_cup_black_tape,200,325,45,200,0,0%,🟨 partial,,,,
-push_red_button,120,130,19,120,0,0%,🟨 partial,,,Updated,2026-09-28 17:00
+push_red_button,120,130,19,120,0,0%,🟨 partial,,,Updated,2026-09-28 17:15
 puzzle_piece,79,348,137,79,0,0%,🟨 partial,,,Warnings,none
 redcube,10,3,0,10,0,0%,🟨 partial,,,,
 separate_drivers,100,141,9,100,0,0%,🟨 partial,,,,
