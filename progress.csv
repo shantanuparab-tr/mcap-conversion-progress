@@ -13,7 +13,7 @@ pour_red_cup,100,0,27,100,100,100%,🟩 done,,,raw/ size,0.00 TB
 prep_tape,160,0,50,160,160,100%,🟩 done,,,video/ objects,0
 pull_handle_door,100,0,14,100,100,100%,🟩 done,,,video/ size,0.00 TB
 push_cup_black_tape,200,0,45,200,200,100%,🟩 done,,,,
-push_red_button,120,0,19,120,120,100%,🟩 done,,,Updated,2026-09-29 02:00
+push_red_button,120,0,19,120,120,100%,🟩 done,,,Updated,2026-09-29 02:15
 puzzle_piece,79,0,137,79,79,100%,🟩 done,,,Warnings,none
 redcube,10,0,0,10,10,100%,🟩 done,,,,
 separate_drivers,100,114,9,100,15,15%,🟨 partial,,,,
@@ -22,7 +22,7 @@ shirt_on_hanger,30,393,57,30,0,0%,🟨 partial,,,,
 sort_blocks,3,5,0,3,0,0%,🟨 partial,,,,
 stack_blocks,150,353,43,150,0,0%,🟨 partial,,,,
 trash_into_can,40,228,34,40,0,0%,🟨 partial,,,,
-tshirt_folding,1174,5257,602,1171,0,0%,🟨 partial,,,,
+tshirt_folding,1174,5257,602,1171,0,0%,🟨 partial,uploading raw from totl-01; uploading raw from totl-02,,,
 twist_off_cap,50,181,25,50,0,0%,🟨 partial,,,,
 usb_into_hub,100,199,25,100,0,0%,🟨 partial,,,,
 ziploc,100,355,53,100,0,0%,🟨 partial,,,,
